@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://space-all.github.io/2024/12/02/%E7%94%B5%E8%84%91DIY%E8%A3%85%E6%9C%BA/</loc>
+    
+    <lastmod>2024-12-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://space-all.github.io/2024/11/18/%E4%B8%B4%E6%B1%9F%E4%BB%99/</loc>
     
     <lastmod>2024-11-19</lastmod>
@@ -22,7 +31,7 @@
 
   <url>
     <loc>https://space-all.github.io/</loc>
-    <lastmod>2024-11-19</lastmod>
+    <lastmod>2024-12-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -30,7 +39,7 @@
   
   <url>
     <loc>https://space-all.github.io/tags/%E6%96%87%E5%AD%A6/</loc>
-    <lastmod>2024-11-19</lastmod>
+    <lastmod>2024-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

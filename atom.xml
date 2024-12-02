@@ -6,7 +6,7 @@
   <link href="https://space-all.github.io/atom.xml" rel="self"/>
   
   <link href="https://space-all.github.io/"/>
-  <updated>2024-11-19T13:32:30.492Z</updated>
+  <updated>2024-12-02T14:23:33.758Z</updated>
   <id>https://space-all.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>电脑DIY装机</title>
+    <link href="https://space-all.github.io/2024/12/02/%E7%94%B5%E8%84%91DIY%E8%A3%85%E6%9C%BA/"/>
+    <id>https://space-all.github.io/2024/12/02/%E7%94%B5%E8%84%91DIY%E8%A3%85%E6%9C%BA/</id>
+    <published>2024-12-02T14:18:45.000Z</published>
+    <updated>2024-12-02T14:23:33.758Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h2><p>对于intel来说，同代主板一般有三个芯片组，最低端的<strong>H系列</strong>、<strong>中端B系列</strong>、<strong>高端Z系列</strong></p><h4 id="方案1"><a href="#方案1" class="headerlink" title="方案1"></a>方案1</h4><table><thead><tr><th>项目</th><th>型号</th><th>价格</th></tr></thead><tbody><tr><td>CPU:luc_cpu:</td><td>intel  i5  14600kf</td><td>2600</td></tr><tr><td>GPU:luc_cpu:</td><td>RX6500xt 4G</td><td>979</td></tr><tr><td>主板:dev_circleci_plain:</td><td>微星迫击炮二代  MAG B760M MORTAR WIFI II 迫击炮2代</td><td>0</td></tr><tr><td>电源🔋</td><td>长城X7  金牌全模组额定750W</td><td>426</td></tr><tr><td>散热🥵</td><td>九州风神大霜塔V5</td><td>144</td></tr><tr><td>机箱🧰</td><td>先马 平头哥M2</td><td>99</td></tr><tr><td>内存🗃</td><td>金百达 32GB（16X2）DDR5 6800 C34</td><td>357</td></tr><tr><td>固态💿</td><td>致态Ti600 1TB</td><td>392</td></tr><tr><td>合计</td><td></td><td>4997</td></tr></tbody></table><h4 id="方案2"><a href="#方案2" class="headerlink" title="方案2"></a>方案2</h4><table><thead><tr><th>项目</th><th>型号</th><th>价格</th></tr></thead><tbody><tr><td>CPU:luc_cpu:</td><td>intel  i5  14600kf</td><td>2600</td></tr><tr><td>GPU:luc_cpu:</td><td></td><td></td></tr><tr><td>主板:dev_circleci_plain:</td><td>微星迫击炮二代  MAG B760M MORTAR WIFI II 迫击炮2代</td><td></td></tr><tr><td>电源🔋</td><td>长城X7  金牌全模组额定750W</td><td></td></tr><tr><td>散热🥵</td><td>九州风神大霜塔V5</td><td></td></tr><tr><td>机箱🧰</td><td></td><td></td></tr><tr><td>内存🗃</td><td>金百达 32GB（16X2）DDR5 6800 C34</td><td></td></tr><tr><td>固态💿</td><td>致态</td><td></td></tr><tr><td>合计</td><td></td><td></td></tr></tbody></table><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>用一句话去总结</p><h2 id="相关文章"><a href="#相关文章" class="headerlink" title="相关文章"></a>相关文章</h2><p>Page Link::  </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;内容&quot;&gt;&lt;a href=&quot;#内容&quot; class=&quot;headerlink&quot; title=&quot;内容&quot;&gt;&lt;/a&gt;内容&lt;/h2&gt;&lt;p&gt;对于intel来说，同代主板一般有三个芯片组，最低端的&lt;strong&gt;H系列&lt;/strong&gt;、&lt;strong&gt;中端B系列&lt;/strong&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>临江仙</title>
